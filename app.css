@@ -83,6 +83,7 @@ details[open] summary ~ * {
   font-size: 20px;
   width: 90%;
   margin: 20px auto 100px auto;
+  text-align: justify;
 }
 
 .arr-cont {
